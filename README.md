@@ -4,4 +4,4 @@ Sistema rapine per FiveM con timer, reward configurabile, log Discord tramite we
 
 
 Grazie per aver scaricato il mio script 
-se avete bisogno di supporto -> https://discord.gg/xcYZ52ZU
+se avete bisogno di supporto -> https://discord.gg/xcYZ52ZU  /  endev.it
